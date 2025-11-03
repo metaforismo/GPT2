@@ -1,0 +1,9 @@
+notes.md
+rough.ipynb
+**/.ipynb_checkpoints
+.DS_Store
+*.pyc
+__pycache__/
+*.pt
+*.pth
+log*
